@@ -1,2 +1,2 @@
 print('hello, world')
-print(50)
+print(100)
